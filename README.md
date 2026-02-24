@@ -1,6 +1,6 @@
 # Hi, I'm Nathan
 
-Physicist. I build simulations of physical systems that interest me—compressible flow, orbital mechanics, relativistic dynamics, thermal convection, multi-body problems. Aerospace keeps pulling me in.
+Physicist. I build simulations of physical systems that interest me—compressible flow, orbital mechanics, relativistic dynamics, thermal convection, multi-body problems. 
 
 Most of these projects started as research work or academic curiosity where version control wasn't a priority. I've since cleaned them up and posted them here to track progress and share the work.
 
