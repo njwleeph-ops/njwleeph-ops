@@ -46,8 +46,8 @@ Tools          Git, CMake, Linux, Bash
 
 ## Interests
 
-- Compressible flow and gas dynamics
-- RPO
+- Compressible fluid dynamics
+- GNC
 - Nonlinear dynamics and chaos
 
 ---
